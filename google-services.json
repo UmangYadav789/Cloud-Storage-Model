@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377028755280",
+    "firebase_url": "https://udisk-5af97.firebaseio.com",
+    "project_id": "udisk-5af97",
+    "storage_bucket": "udisk-5af97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377028755280:android:9e8058c2c1cb39de253655",
+        "android_client_info": {
+          "package_name": "com.example.admin.udisk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377028755280-1r50sfq1cej9sp9btjfg6odsgmvl288b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.udisk",
+            "certificate_hash": "117d3cf3183e52a0039abb357a933ac5c5bf5bdc"
+          }
+        },
+        {
+          "client_id": "377028755280-dk3v9h6d25l652pflnl5af25d7jjgnrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGOpSLjuR4vJ74u0VszpdZ4lr0MJ4V0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377028755280-dk3v9h6d25l652pflnl5af25d7jjgnrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
